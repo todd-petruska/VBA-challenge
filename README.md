@@ -19,4 +19,4 @@ In 2019, the stock with the greatest percentage increase is RYU with 190.03%, gr
 
 In 2020, the stock with the greatest percentage increase is YDI with 188.76%, greatest decrease is VNG with -89.05%, and the stock with the greatest total volume is QKN at 3452956568861.
 
-Of all the stocks, RKS suffered the greatest percentage decrease in both 2018 and 2019, whereas QKN has the greatest total volume in 2018 and 2019.
+Of all the stocks, RKS suffered the greatest percentage decrease in both 2018 and 2019, whereas QKN maintined the greatest total volume in 2018 and 2019.
