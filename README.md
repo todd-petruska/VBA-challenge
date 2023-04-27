@@ -1,6 +1,6 @@
 # VBA-challenge
 Challenge 2 - Multiple Year Stock Data VBA
-The folder contains the following:
+The folder contains the following
  * Easy_Solution Image 
  * Moderate_Solution Image
  * Hard_Solution Image
