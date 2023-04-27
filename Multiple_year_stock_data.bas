@@ -6,6 +6,8 @@ Sub stock_anlysis():
     Dim Closing_Price As Double
     Dim Yearly_Change As Double
     Dim Percent_Change As Double
+    Dim i As Long
+    Dim j As Integer
         
     'This will cycle formulas throughout all of the worksheets
     For Each ws In Worksheets
