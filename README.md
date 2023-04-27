@@ -1,10 +1,10 @@
 # VBA-challenge
 Challenge 2 - Multiple Year Stock Data VBA
 The folder contains the following:
-Easy_Solution Image
-Moderate_Solution Image
-Hard_Solution Image
-Multiple_year_stock_data.bas
+ * Easy_Solution Image 
+ * Moderate_Solution Image
+ * Hard_Solution Image
+ * Multiple_year_stock_data.bas
 
 VBA formatting was used to loop through stock data from 2018, 2019, and 2020 and output the stock ticker symbol, the yearly change between the opening and closing price, and the percentage annual change, as well as the total stock volume.
 
